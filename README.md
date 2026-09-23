@@ -31,7 +31,7 @@ Real issues encountered during setup, documented as incident reports: [troublesh
 
 ## Roadmap
 
-- [ ] First VM: Ubuntu Server (baseline test)
+- [ x ] First VM: Ubuntu Server (baseline test)
 - [ ] Kali Linux VM
 - [ ] Windows Server + Active Directory
 - [ ] Security Onion (detection/SIEM)

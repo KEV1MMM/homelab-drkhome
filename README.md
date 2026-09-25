@@ -32,7 +32,7 @@ Real issues encountered during setup, documented as incident reports: [troublesh
 ## Roadmap
 
 - [ x ] First VM: Ubuntu Server (baseline test)
-- [ ] Kali Linux VM
+- [ x ] Kali Linux VM
 - [ ] Windows Server + Active Directory
 - [ ] Security Onion (detection/SIEM)
 - [ ] Splunk
